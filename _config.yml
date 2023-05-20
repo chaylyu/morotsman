@@ -2,8 +2,8 @@ title: Well, that's kind of interesting
 email: leopold.niklas@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   A blog about software development
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://morotsman.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: /morotsman
+url: https://chaylyu.github.io
 twitter_username:
 github_username:  morotsman
 
